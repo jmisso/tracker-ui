@@ -5,3 +5,4 @@ package-lock.json
 dist
 credentials.json
 pro-mern-stack.code-workspace
+secret.txt
